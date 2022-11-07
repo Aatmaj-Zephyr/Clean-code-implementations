@@ -4,6 +4,7 @@ Paste links of Pull requests or commits which highlight the change before and af
 
 Example-
 1) [Renaming of variables](https://github.com/Aatmaj-Zephyr/Travelling-salesman/commit/ef7a197b472288bd6746d72627017a4074f6a919)
+2) [Implementation of a design pattern](https://github.com/Aatmaj-Zephyr/Neural-networks-in-Java/pull/23)
 
 
 
